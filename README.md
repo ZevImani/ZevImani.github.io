@@ -5,9 +5,9 @@ IAIFI Member \\
 MicroBooNE \\ 
 SBND 
 
-## Website coming soon
-
 Neutrino Physics & Machine Learning
+
+## Publications 
 
 https://arxiv.org/abs/2307.13687
 
