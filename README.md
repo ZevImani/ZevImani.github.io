@@ -1,14 +1,16 @@
 # Zev Imani 
 
-Tufts Physics Ph.D. Student \\
-IAIFI Member \\ 
+Tufts Physics Ph.D. Student -
+Neutrino Physics & Machine Learning
+
+### Collaborations
+IAIFI \\ 
 MicroBooNE \\ 
 SBND 
-
-Neutrino Physics & Machine Learning
 
 ## Publications 
 
 https://arxiv.org/abs/2307.13687
 
+# More Website Coming Soon (2024)
 
