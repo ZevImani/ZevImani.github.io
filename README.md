@@ -2,8 +2,7 @@
 
 Tufts Physics Ph.D. Student -
 Neutrino Physics & Machine Learning
-\\
-Scientist Rebellion 
+Scientist Rebellion \
 
 ### Collaborations
 IAIFI \\ 
